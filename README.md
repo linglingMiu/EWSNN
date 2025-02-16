@@ -1,2 +1,2 @@
 # EWSNN
-The EWSNN network for image classification
+The EWS-SNN network for image classification
